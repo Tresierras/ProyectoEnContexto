@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Musica en contexto</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_menu_desplegable">Musica en contexto</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Musica en contexto</string>
+    <string name="nav_header_subtitle">Escucha tu musica de manera distinta</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Salir</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_reproductor">Reproductor</string>
+    <string name="menu_mapa">Mapa</string>
+    <string name="menu_salir">Salir</string>
+    <string name="otras_opciones">Otras opciones</string>
+    <string name="text_home">Inicio</string>
+    <string name="mapa">Mapa</string>
+
+</resources>
