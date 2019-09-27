@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musica en contexto</string>
+    <string name="mensaje">Info</string>
+    <string name="reproductor">Reproductor</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Mapa">Mapa</string>
+</resources>
